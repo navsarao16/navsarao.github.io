@@ -1,0 +1,39 @@
+body,
+html{
+	width: 100%;
+	height: 100%;
+	font-family: 'Cookie', sans-serif;
+	background: url(https://previews.123rf.com/images/belchonock/belchonock1802/belchonock180222145/95436909-empty-yellow-adhesive-paper-on-laptop-keyboard-pen-and-coffee-cup-on-desk-background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+	font-size: 40px;
+	color:   #b35600;
+
+}
+.buffer{
+	height: 5rem;
+}
+hr{
+	border-color:   #cc3300;
+	border-width: 3px;
+	max-width: 270px;
+}
+.btn{
+	font-weight: 500;
+	text-transform: uppercase;
+}
+.btn-secondary{
+	background-color:   #ffa34d;
+
+}
+.btn-secondary:hover{
+  background-color:  #ff881a;
+
+}
+.btn-lg{
+	padding: 1rem,2rem;
+}
